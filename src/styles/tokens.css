@@ -1,0 +1,40 @@
+:root {
+  --color-primary: #0075de;
+  --color-primary-active: #005bab;
+  --color-secondary: #213183;
+  --color-canvas: #ffffff;
+  --color-canvas-soft: #f6f5f4;
+  --color-surface: #ffffff;
+  --color-hairline: #e6e6e6;
+  --color-ink: #000000;
+  --color-ink-secondary: #31302e;
+  --color-ink-muted: #615d59;
+  --color-ink-faint: #a39e98;
+  --color-on-primary: #ffffff;
+  --color-accent-green: #1aae39;
+  --font-family: Inter, -apple-system, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif;
+  --spacing-xxs: 4px;
+  --spacing-xs: 8px;
+  --spacing-sm: 12px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 28px;
+  --spacing-xxl: 32px;
+  --rounded-xs: 4px;
+  --rounded-sm: 5px;
+  --rounded-md: 8px;
+  --rounded-lg: 12px;
+  --rounded-xl: 16px;
+  --rounded-full: 9999px;
+  --shadow-soft:
+    rgba(0, 0, 0, 0.01) 0 0.175px 1.041px, rgba(0, 0, 0, 0.02) 0 0.8px 2.925px,
+    rgba(0, 0, 0, 0.027) 0 2.025px 7.847px, rgba(0, 0, 0, 0.04) 0 4px 18px;
+  --typography-display-1-size: 64px;
+  --typography-heading-1-size: 40px;
+  --typography-body-md-size: 16px;
+  --typography-body-sm-size: 15px;
+  --typography-button-size: 16px;
+  --typography-caption-size: 14px;
+  --breakpoint-tablet: 768px;
+  --breakpoint-mobile: 600px;
+}

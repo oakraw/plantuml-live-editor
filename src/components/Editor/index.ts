@@ -1,0 +1,1 @@
+export { PlantUmlEditor } from './Editor';

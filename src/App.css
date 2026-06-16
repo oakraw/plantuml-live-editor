@@ -1,0 +1,20 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background: var(--color-canvas-soft);
+}
+
+.app-main {
+  display: flex;
+  flex: 1;
+  gap: var(--spacing-md);
+  padding: var(--spacing-md);
+  min-height: 0;
+}
+
+@media (max-width: 768px) {
+  .app-main {
+    flex-direction: column;
+  }
+}

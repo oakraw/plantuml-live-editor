@@ -1,0 +1,17 @@
+node_modules
+dist
+coverage
+.playwright
+test-results
+playwright-report
+*.local
+.env
+.env.*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+.firebaserc
+firebase.json
+.claude
+.firebase
+.pnpm-store
